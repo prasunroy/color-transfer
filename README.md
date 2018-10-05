@@ -3,7 +3,7 @@
   <img src='https://github.com/prasunroy/color-transfer/raw/master/assets/image_1.jpg' />
 </p>
 
-***An implementation of the paper ["Color Transfer Between Images"](http://www.cs.northwestern.edu/~bgooch/PDFs/ColorTransfer.pdf) by Erik Reinhard, Michael Adhikhmin, Bruce Gooch and Peter Shirley (2001).***
+***An implementation of the paper ["Color Transfer between Images"](http://www.cs.northwestern.edu/~bgooch/PDFs/ColorTransfer.pdf) by Erik Reinhard, Michael Adhikhmin, Bruce Gooch and Peter Shirley (2001).***
 
 ![badge](https://github.com/prasunroy/color-transfer/blob/master/assets/badge_1.svg)
 ![badge](https://github.com/prasunroy/color-transfer/blob/master/assets/badge_2.svg)
